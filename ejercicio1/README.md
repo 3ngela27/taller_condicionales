@@ -14,6 +14,6 @@ C= cuadrante al que pertence el punto
 S= si el punto esta sobre un eje 
 
 # DISEÑO 
-![Diagrama de flujo](Diagrama.png "diagrama de flujo")
+![Diagrama de flujo](diagrama.png "diagrama de flujo")
 
 # CONSTRUCCION
