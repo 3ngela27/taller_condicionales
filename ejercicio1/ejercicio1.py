@@ -1,10 +1,11 @@
 #programa para calcular en que cuadrante esta un punto,de un plano cartesiano
 
 #entrada
-X = int(input("ingrese la coordenaa x"))
+X = int(input("ingrese la coordenda x"))
 Y = int(input("ingrese la coordenada y"))
 
 #proceso y salida
+
 if X==0:
     if Y==0:
         print("La coordenada" , (X , Y),"esta en, el origen")
