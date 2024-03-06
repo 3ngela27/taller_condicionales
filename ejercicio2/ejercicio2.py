@@ -3,22 +3,23 @@
 # programa para solicitar un prestamo
 
 #input
+print(",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,")
 
-salario_emp=int(input("Digite su ingreso mensual"))
+sueldo = int(input("Digite la cantida de sueldo que gana: "))
  
-deudas=input("¿El empleado tiene deudas?si/no: ")
+deudas = input("diga si tine o no tiene deudas: ")
+
 #proceso
-if salario_emp > 945200
+if sueldo >= 945200:
 
-
-   if deudas == "no"
-   rta = "APROBADO"
+   if deudas == "no":
+     rta =   "APROBADO"
    
+   else:
+      rta = "DENEGADO"
 else:
-   rta = "DENEGADO"
-else:
-rta =  "DENEGADO"
+  rta =  "DENEGADO"
 #output
-
+print(",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,")
 print("Su prestamo ha sido" + rta)
 
