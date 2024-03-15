@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="orTN6nSt1EetT3WT8twD" name="Página-1">
-        <mxGraphModel dx="1261" dy="1472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1669" dy="1775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -12,7 +12,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="3" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;fillColor=#994C00;" vertex="1" parent="1">
+                <mxCell id="3" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
                     <mxGeometry x="740" y="-40" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="4" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5" target="36">
@@ -20,13 +20,13 @@
                         <mxPoint x="800" y="210" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="5" value="altura , peso" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FF6666;" vertex="1" parent="1">
+                <mxCell id="5" value="altura , peso" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
                     <mxGeometry x="740" y="80" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="IMC&amp;lt;16" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF99FF;" vertex="1" parent="1">
+                <mxCell id="6" value="IMC&amp;lt;16" style="rhombus;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
                     <mxGeometry x="760" y="300" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="IMC&amp;lt;=17&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF99FF;" vertex="1" parent="1">
+                <mxCell id="7" value="IMC&amp;lt;=17&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
                     <mxGeometry x="590" y="380" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="8" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6" target="26">
@@ -53,7 +53,7 @@
                 <mxCell id="11" value="TRUE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
                     <mxGeometry x="900" y="300" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="IMC&amp;lt;=18" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF99FF;" vertex="1" parent="1">
+                <mxCell id="12" value="IMC&amp;lt;=18" style="rhombus;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
                     <mxGeometry x="414" y="460" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="13" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7" target="12">
@@ -66,7 +66,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="14" value="Infrapeso" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#074146;" vertex="1" parent="1">
+                <mxCell id="14" value="Infrapeso" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
                     <mxGeometry x="690" y="460" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="15" value="" style="endArrow=none;html=1;exitX=0.998;exitY=0.598;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7" target="14">
@@ -78,13 +78,13 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="16" value="IMC =&amp;lt;25" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF99FF;" vertex="1" parent="1">
+                <mxCell id="16" value="IMC =&amp;lt;25" style="rhombus;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
                     <mxGeometry x="120" y="570" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="17" value="bajo peso" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#074146;" vertex="1" parent="1">
+                <mxCell id="17" value="bajo peso" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
                     <mxGeometry x="470" y="570" width="120" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="18" value="peso normal(saludable)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#074146;" vertex="1" parent="1">
+                <mxCell id="18" value="peso normal(saludable)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
                     <mxGeometry x="220" y="690" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="19" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="16" target="12">
@@ -145,7 +145,7 @@
                         <mxPoint x="750" y="1320" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="26" value="Criterio de ingreso en hospital" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#074146;" vertex="1" parent="1">
+                <mxCell id="26" value="Criterio de ingreso en hospital" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
                     <mxGeometry x="960" y="380" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="27" value="" style="endArrow=none;html=1;entryX=0.59;entryY=0.798;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="26">
@@ -166,7 +166,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="29" value="FIN" style="ellipse;whiteSpace=wrap;html=1;fillColor=#994C00;" vertex="1" parent="1">
+                <mxCell id="29" value="FIN" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
                     <mxGeometry x="354" y="1370" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="30" value="FALSE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -187,35 +187,35 @@
                 <mxCell id="35" value="TRUE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
                     <mxGeometry x="220" y="580" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="36" value="(IMC = peso[kg] / altura&lt;sup&gt;2&lt;/sup&gt; [m]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000066;" vertex="1" parent="1">
+                <mxCell id="36" value="(IMC = peso[kg] / altura&lt;sup&gt;2&lt;/sup&gt; [m]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
                     <mxGeometry x="740" y="180" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="37" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="36" target="6">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="38" value="IMC =&amp;lt;30" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF99FF;" vertex="1" parent="1">
+                <mxCell id="38" value="IMC =&amp;lt;30" style="rhombus;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
                     <mxGeometry y="680" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="39" value="sobre peso(obesidad de grado I)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#003333;" vertex="1" parent="1">
+                <mxCell id="39" value="sobre peso(obesidad de grado I)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
                     <mxGeometry x="100" y="820" width="120" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="40" value="IMC=&amp;lt;35" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF99FF;" vertex="1" parent="1">
+                <mxCell id="40" value="IMC=&amp;lt;35" style="rhombus;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
                     <mxGeometry x="-180" y="820" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="41" value="sobrepeso crónico(obesidad de grado II)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#003333;" vertex="1" parent="1">
+                <mxCell id="41" value="sobrepeso crónico(obesidad de grado II)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
                     <mxGeometry x="-70" y="940" width="120" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="42" value="IMC=&amp;lt;40" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF99FF;" vertex="1" parent="1">
+                <mxCell id="42" value="IMC=&amp;lt;40" style="rhombus;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
                     <mxGeometry x="-360" y="940" width="90" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="43" value="obesidad premórbida(obesidad de grado III)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#003333;" vertex="1" parent="1">
+                <mxCell id="43" value="obesidad premórbida(obesidad de grado III)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
                     <mxGeometry x="-240" y="1040" width="120" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="44" value="IMC&amp;gt;40" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF99FF;" vertex="1" parent="1">
+                <mxCell id="44" value="IMC&amp;gt;40" style="rhombus;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
                     <mxGeometry x="-520" y="1040" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="45" value="obesidad mórbida(obesidad de grado IV)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#003333;" vertex="1" parent="1">
-                    <mxGeometry x="-413" y="1160" width="120" height="80" as="geometry"/>
+                <mxCell id="45" value="obesidad mórbida(obesidad de grado IV)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+                    <mxGeometry x="-412" y="1160" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="46" value="" style="endArrow=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="39" target="38">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
